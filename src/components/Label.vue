@@ -51,7 +51,7 @@ export default {
         },
         {
           picLinks: 'https://img.icons8.com/wired/64/000000/home.png',
-          values: 'Toyohashi University of Technology, 1-1 Hibarigaoka, Tenpaku town, Toyohashi city, Aichi prefecture',
+          values: 'Aichi prefecture, Toyohashi city, Tenpaku town, Hibarigaoka 1-1, Toyohashi University of Technology dormitory (G2-101-4)',
         },
       ],
       details: [
