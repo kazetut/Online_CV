@@ -1,5 +1,5 @@
 <template>
-  <div class="relative w-4/12 inline-block mt-20 mb-20" >
+  <div class="relative w-4/12 inline-block mt-10 mb-20" >
     <!-- add-in picture and some contents -->
     <div class="h-95">
       <img src="./picture.png" class="mx-auto mt-4 w-8/12">
