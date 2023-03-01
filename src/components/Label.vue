@@ -74,6 +74,9 @@ export default {
               content_name: 'Nodejs',
             },
             {
+              content_name: 'MATLAB',
+            },
+            {
               content_name: 'Robot Operating System (ROS)',
             },
           ],
