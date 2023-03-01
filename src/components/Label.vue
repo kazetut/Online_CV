@@ -96,7 +96,7 @@ export default {
               content_name: 'JLPT: N1',
             },
             {
-              content_name: 'TOEIC L&R: 715',
+              content_name: 'TOEIC L&R: 850',
             },
             {
               content_name: 'Paiza: rank B',
