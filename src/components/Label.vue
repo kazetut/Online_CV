@@ -47,7 +47,7 @@ export default {
         },
         {
           picLinks: 'https://img.icons8.com/ios/50/000000/email-open.png',
-          values: 'nguyen.hai.phong.uv@tut.jp',
+          values: 'nguyenhaiphong168@gmail.com',
         },
         {
           picLinks: 'https://img.icons8.com/wired/64/000000/home.png',
